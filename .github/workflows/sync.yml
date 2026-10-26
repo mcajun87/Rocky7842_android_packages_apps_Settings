@@ -1,4 +1,4 @@
-name: Auto Sync Upstream
+name: 更新Rocky7842_android_packages_apps_Settings
 
 permissions:
   contents: write
